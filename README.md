@@ -1,2 +1,1 @@
-# db-router-spring-boot-starter
-db-router-spring-boot-starter
+支持编程式事务和注解的分库分表路由组件，可作为starter引入项目。
