@@ -6,9 +6,7 @@ import org.junit.Test;
 import java.lang.reflect.AnnotatedType;
 import java.lang.reflect.Method;
 
-/**
- * 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
- */
+
 public class ApiTest {
 
     public static void main(String[] args) {
